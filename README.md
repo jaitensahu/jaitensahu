@@ -32,3 +32,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaitensahu&show_icons=true&locale=en" alt="jaitensahu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaitensahu&" alt="jaitensahu" /></p>
+
+## Badges 
+[![An image of @jaitensahu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jaitensahu)](https://holopin.io/@jaitensahu)

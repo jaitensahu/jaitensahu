@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 Currently working as **Frontend Developer at Kommunicate**
 
-- 💬 Ask me about **HTML, CSS, Figma**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, NodeJS, MongoDb Figma**
 
 - 📫 How to reach me **jaitensahu9@gmail.com**
 
